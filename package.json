@@ -1,0 +1,8 @@
+{
+  "name": "kyra-wellness-spa",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Kyra Wellness & Spa landing page",
+  "scripts": { "start": "node server.js", "dev": "node server.js" },
+  "engines": { "node": ">=18" }
+}

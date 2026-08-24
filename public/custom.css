@@ -1,0 +1,11 @@
+:root{--pink:#b87931;--pink-2:#dbab66;--cream:#f8f1e6;--border:#e7d7bf;--ink:#17140e}
+body{background:radial-gradient(circle at 0 35%,#eee0cb 0,transparent 23%),radial-gradient(circle at 100% 68%,#efe2ce 0,transparent 22%),var(--cream)}
+.logo{display:block;line-height:0}.logo img{height:56px;width:178px;object-fit:contain;object-position:left center}
+.site-header{background:#11140e;border-bottom:1px solid #d5aa6855}.nav nav a{letter-spacing:.02em}.whatsapp{border:0;background:linear-gradient(105deg,#a66528,#dba85c)}
+.hero{min-height:570px}.hero-bg{background:linear-gradient(90deg,#0e110edb 0%,#0e110eaa 39%,#0e110e1c 75%),url("assets/kyra-sanctuary-hero.png") 69% 53%/cover no-repeat}.hero-inner{min-height:570px}.pill{border-color:#d8ae6c;color:#f9e1bc;background:#191b15ba}.hero h1 span{color:#e0ad62}.lead{color:#f1ece1}.pink{background:linear-gradient(105deg,#a76527,#dba85c)}.directions{color:#e2b779}
+.trust{background:linear-gradient(90deg,#fbf6ee,#f1dfc6,#fbf6ee);border-top:1px solid #e0c9a7}.trust-grid i,.why i{color:#aa6b2d}.trust-grid div{border-color:#d9c6a8}
+.services{background:linear-gradient(180deg,#fbf8f1,#f4e8d7)}.section-intro span{color:#b87931}.section-intro p{color:#6d655a}.service-card{border:1px solid #eadbc6;box-shadow:0 12px 30px #60452417;transition:transform .25s,box-shadow .25s}.service-card:hover{transform:translateY(-5px);box-shadow:0 18px 38px #6045242b}.service-card a{background:linear-gradient(90deg,#aa6829,#d8a459)}.service-card li:before{color:#b87931}
+.hydro:after{background:linear-gradient(180deg,#111a 0%,#10130ee8 100%)}.hydro ul{color:#fff;text-align:left;display:inline-block;margin:11px auto 4px}.hydro li:before{color:#e4ba77}.hydro a{margin-top:16px}.foot-card>div{padding-top:21px}
+.why{background:linear-gradient(112deg,#ead7b9,#fffaf2 27%,#fffaf2 73%,#ead7b9);border-top:1px solid #e3cfad;border-bottom:1px solid #e3cfad}.why h2{color:#272019}.why p{color:#675e52}
+.visit{background:radial-gradient(circle at 82% 50%,#5d4526 0,transparent 27%),linear-gradient(115deg,#11150f,#252618)}.visit .overline{color:#dfb36f}.visit img{border:1px solid #d9aa635c}.faq{background:#fdfaf4}.faq details{border-color:#e2cfb1}footer{background:#10130e;border-top:1px solid #bd873b66}
+@media(max-width:560px){.logo img{width:140px;height:45px}.hero,.hero-inner{min-height:510px}.hero-bg{background-position:61% 50%}}
