@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kyrawellnessandspa.com/sitemap.xml
+Sitemap: https://kyraspaandwellness.com/sitemap.xml
